@@ -1,0 +1,20 @@
+[
+  {
+    "name": "988 Suicide & Crisis Lifeline",
+    "description": "Call or text 988 in the US and Canada for free, confidential crisis support.",
+    "url": "https://988lifeline.org/",
+    "urgent": true
+  },
+  {
+    "name": "Crisis Text Line",
+    "description": "Text HOME to 741741 for crisis support.",
+    "url": "https://www.crisistextline.org/",
+    "urgent": true
+  },
+  {
+    "name": "Campus counseling center",
+    "description": "Connect with your university's confidential wellbeing team.",
+    "url": "https://www.studenthealth.gov/",
+    "urgent": false
+  }
+]

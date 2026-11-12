@@ -1,0 +1,8 @@
+[app]
+name = "Wellness Sky"
+api_url = "http://127.0.0.1:8000"
+default_theme = "Sky"
+
+[privacy]
+notes_are_encrypted = true
+analytics_default = false
